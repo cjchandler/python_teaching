@@ -1,0 +1,8 @@
+print("here is a command line cheat sheet:")
+print( "to see where you are: pwd")
+print( "to see what's in your current directory: ls (or dir for windows)")
+print( "to move to a new directory: cd directory_name")
+print( "to move backwards, up directory tree: cd .. ")
+print( "to go home (root) directory if you get really lost: cd ")
+print( "remember that you can type TAB key at any time and the computer will try to autocomplete what you're typing")
+print( " to run a python program type: python program_name.py or python3 program_name.py")
