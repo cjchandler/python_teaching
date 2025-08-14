@@ -1,0 +1,16 @@
+#print ("hello")
+#print ("my name is computer")
+#print ("i'm friendly")
+#print ("hello my name is parrot")
+#x=input ()
+#print(x)
+#print ("type in your name")
+#name=input()
+#print ("hello "+name)
+#lastname="chandler "
+#print ("your lastname is probably "+lastname)
+#x=1+1
+#print (x)
+print ("hello,ask me anything! i can answer any question") 
+q=input()
+print("    ")
